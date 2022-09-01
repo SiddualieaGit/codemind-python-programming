@@ -1,0 +1,16 @@
+Multiplycation Without Astric 
+ 2 * 3 Can also be Written as 2 + 2 + 2 
+ First = 2 (Here)
+ Second = 3 (Here)
+ Count for loop break
+ if Count == Second  Return Result
+ 
+
+ Cases:
+    if Count == Second:
+        return Result
+    else : Count Starting from 2
+        Result = Result + First
+
+    Fisrt itr    Result = 0 + 2
+    2 itr        Result = 2 + 2
